@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nisha 👋
 
-<!--
-**nishapanchal07/nishapanchal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* Data Structures and Algorithms
+* Git and GitHub
+* Web Development
+
+## Goals for 2026
+
+* Build strong DSA fundamentals
+* Create multiple frontend projects
+* Learn React
+* Contribute to open source
+* Secure internship opportunities
+
+## Tech Stack
+
+* C++
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## Current Repositories
+
+* DSA-CPP
+* Frontend-Projects
+* College-Learning
+
+## Connect With Me
+
+GitHub: github.com/nishapanchal07
